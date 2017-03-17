@@ -1,2 +1,3 @@
 # redux-todos
-redux
+
+学习redux数据流
